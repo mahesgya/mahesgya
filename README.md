@@ -1,6 +1,5 @@
 ## Hallo!! I'm **Anargya Isadhi Maheswara** 👋
 
-I am a **Computer Science** student at **IPB University** with a strong passion for **software development**. I focus on both **frontend** and **backend** technologies and enjoy creating scalable and efficient applications. I’m constantly learning new things to improve my skills.
 
 ## Feel free to explore my projects, and let’s connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anargyaisadhim/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anargya_gy/)
