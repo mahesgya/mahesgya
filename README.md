@@ -64,6 +64,10 @@
 ![Breeze](https://img.shields.io/badge/Breeze-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spatie](https://img.shields.io/badge/Spatie-4A5568?style=for-the-badge&logo=spatie&logoColor=white)
 
+**Tools & Automation**
+<br>
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
 ### AI & Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
