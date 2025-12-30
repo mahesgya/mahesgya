@@ -6,6 +6,7 @@
     <b>Software Engineer</b>
     <br>
     CS Student @ IPB University
+    <br>
     Feel free to explore my projects and let’s connect!
   </p>
 
