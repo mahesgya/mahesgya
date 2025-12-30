@@ -58,6 +58,8 @@
 
 **Laravel Ecosystem**
 <br>
+![Filament](https://img.shields.io/badge/Filament-3B82F6?style=for-the-badge&logo=filament&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Breeze](https://img.shields.io/badge/Breeze-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spatie](https://img.shields.io/badge/Spatie-4A5568?style=for-the-badge&logo=spatie&logoColor=white)
