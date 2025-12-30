@@ -1,6 +1,4 @@
 ## Hallo!! I'm **Anargya Isadhi Maheswara** 👋
-
-
 ## Feel free to explore my projects, and let’s connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anargyaisadhim/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anargya_gy/)
 
