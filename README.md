@@ -3,8 +3,9 @@
   # Hello! I'm Anargya Isadhi Maheswara 👋
 
   <p>
-    <b>Software Engineer & Developer</b>
+    <b>Software Engineer</b>
     <br>
+    CS Student @ IPB University
     Feel free to explore my projects and let’s connect!
   </p>
 
