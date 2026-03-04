@@ -91,11 +91,9 @@
 
 ### 📊 GitHub Statistics
 
-<div align="left">
-
-
-[![Mahesgya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahesgya)](https://github.com/mahesgya)
-<br>
-[![mahesgya's Streak Stats](https://streak-stats.demolab.com/?user=mahesgya&theme=radical&hide_border=true)](https://github.com/mahesgya)
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahesgya&theme=radical" height="180"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahesgya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahesgya&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
 </div>
