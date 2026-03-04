@@ -93,10 +93,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahesgya&theme=radical&hide_border=true)](https://github.com/mahesgya)
-
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=mahesgya&show_icons=true&theme=radical&hide_border=true" alt="mahesgya's GitHub Stats" height="195" /> <img src="https://streak-stats.demolab.com/?user=mahesgya&theme=radical&hide_border=true" alt="mahesgya's Streak Stats" height="195" />
-
+[![mahesgya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahesgya&show_icons=true&theme=radical&hide_border=true)](https://github.com/mahesgya)
+[![mahesgya's Streak Stats](https://streak-stats.demolab.com/?user=mahesgya&theme=radical&hide_border=true)](https://github.com/mahesgya)
 </div>
