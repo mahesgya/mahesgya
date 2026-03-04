@@ -91,7 +91,7 @@
 
 ### 📊 GitHub Statistics
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahesgya&theme=radical" height="180"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahesgya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <br>
