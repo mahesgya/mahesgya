@@ -11,6 +11,9 @@
   </p>
 
   <p>
+    <a href="https://mahesgya.github.io/portofolio/">
+      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+    </a>
     <a href="https://www.linkedin.com/in/anargyaisadhim/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -83,3 +86,14 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahesgya&bg_color=141321&color=fe428e&line=f8d847&point=f8d847&area=true&hide_border=true" alt="mahesgya's Activity Graph" width="100%" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahesgya&show_icons=true&theme=radical&hide_border=true" alt="mahesgya's GitHub Stats" height="195" />
+  <img src="https://streak-stats.demolab.com/?user=mahesgya&theme=radical&hide_border=true" alt="mahesgya's Streak Stats" height="195" />
+</div>
