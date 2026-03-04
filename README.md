@@ -91,11 +91,11 @@
 
 ### 📊 GitHub Statistics
 
-<div align="center">
+<div align="left">
 
 <br>
 
-[![mahesgya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahesgya&show_icons=true&theme=radical&hide_border=true)](https://github.com/mahesgya)
+[![Mahesgya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahesgya)](https://github.com/anuraghazra/github-readme-stats)
 [![mahesgya's Streak Stats](https://streak-stats.demolab.com/?user=mahesgya&theme=radical&hide_border=true)](https://github.com/mahesgya)
 
 </div>
