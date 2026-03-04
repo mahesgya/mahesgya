@@ -92,8 +92,11 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahesgya&bg_color=141321&color=fe428e&line=f8d847&point=f8d847&area=true&hide_border=true" alt="mahesgya's Activity Graph" width="100%" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=mahesgya&show_icons=true&theme=radical&hide_border=true" alt="mahesgya's GitHub Stats" height="195" />
-  <img src="https://streak-stats.demolab.com/?user=mahesgya&theme=radical&hide_border=true" alt="mahesgya's Streak Stats" height="195" />
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahesgya&theme=radical&hide_border=true)](https://github.com/mahesgya)
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=mahesgya&show_icons=true&theme=radical&hide_border=true" alt="mahesgya's GitHub Stats" height="195" /> <img src="https://streak-stats.demolab.com/?user=mahesgya&theme=radical&hide_border=true" alt="mahesgya's Streak Stats" height="195" />
+
 </div>
