@@ -94,6 +94,8 @@
 <div align="center">
 
 <br>
+
 [![mahesgya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahesgya&show_icons=true&theme=radical&hide_border=true)](https://github.com/mahesgya)
 [![mahesgya's Streak Stats](https://streak-stats.demolab.com/?user=mahesgya&theme=radical&hide_border=true)](https://github.com/mahesgya)
+
 </div>
