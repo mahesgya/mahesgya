@@ -93,9 +93,9 @@
 
 <div align="left">
 
-<br>
 
-[![Mahesgya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahesgya)](https://github.com/anuraghazra/github-readme-stats)
+[![Mahesgya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahesgya)](https://github.com/mahesgya)
+<br>
 [![mahesgya's Streak Stats](https://streak-stats.demolab.com/?user=mahesgya&theme=radical&hide_border=true)](https://github.com/mahesgya)
 
 </div>
